@@ -31,10 +31,10 @@ The following are the files available in this repository:
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found at the post available [here] in the Results section(https://medium.com/@giustino.anthony/4-things-you-should-know-before-booking-an-airbnb-in-new-york-city-419eceded481).
+The main findings of the code can be found in the Results section at the post available [here](https://medium.com/@giustino.anthony/4-things-you-should-know-before-booking-an-airbnb-in-new-york-city-419eceded481).
 
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thank you to Udacity and Starbucks for the data. Feel free to use the code here as you would like! 
+Thank you to Udacity and Starbucks for the data. Feel free to use the code here as you would like!
