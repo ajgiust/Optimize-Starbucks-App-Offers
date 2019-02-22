@@ -31,7 +31,7 @@ The following are the files available in this repository:
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found in the Results section at the post available [here](https://medium.com/@giustino.anthony/4-things-you-should-know-before-booking-an-airbnb-in-new-york-city-419eceded481).
+The main findings of the code can be found in the Results section at the post available [here](https://medium.com/@giustino.anthony/capstone-project-optimizing-starbucks-app-offers-ae079502e36f).
 
 
 
